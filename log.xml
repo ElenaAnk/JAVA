@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-27T13:40:43.149753900Z</date>
+  <millis>1698414043149</millis>
+  <nanos>753900</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.sem.les.les2.Ex005_Logger</logger>
+  <level>WARNING</level>
+  <class>org.example.sem.les.les2.ex5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 1</message>
+</record>
+<record>
+  <date>2023-10-27T13:40:43.196766300Z</date>
+  <millis>1698414043196</millis>
+  <nanos>766300</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.sem.les.les2.Ex005_Logger</logger>
+  <level>INFO</level>
+  <class>org.example.sem.les.les2.ex5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 2</message>
+</record>
+</log>
